@@ -23,6 +23,6 @@
 
 ### 📊 GitHub Stats
 
-![Archit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archit-rai&show_icons=true&theme=tokyonight&hide_border=true)
+### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit-rai&layout=compact&theme=tokyonight&hide_border=true)
+![Archit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archit-rai&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
