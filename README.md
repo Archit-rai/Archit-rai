@@ -15,12 +15,12 @@
 ![KIIT](https://img.shields.io/badge/KIIT_University-B.Tech_CSE-4c1d95?style=for-the-badge&labelColor=1e1b4b)
 ![Year](https://img.shields.io/badge/Year-2nd-6d28d9?style=for-the-badge&labelColor=1e1b4b)
 ![Location](https://img.shields.io/badge/Bhubaneswar-India-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e1b4b)
+![MLSA](https://img.shields.io/badge/MLSA_KIIT-2026--27_Applicant-0078d4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1e1b4b)
 
 <br/>
 
 <a href="mailto:317architrai@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Email"/></a>
 <a href="https://instagram.com/317atri"><img src="https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b" alt="Instagram"/></a>
-<a href="https://github.com/Archit-rai"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="GitHub"/></a>
 
 <br/><br/>
 
@@ -42,6 +42,20 @@ My focus right now is a strong base in **C and Python**, because every good engi
 
 I prefer clean, minimal systems, a terminal-first workflow, and understanding what happens under the hood instead of copy-pasting my way through.
 
+<div align="center">
+
+### At a Glance
+
+| | |
+|:--|:--|
+| **Studying** | B.Tech CSE, KIIT University |
+| **Core focus** | C and Python fundamentals |
+| **Exploring** | AI / ML and Cybersecurity |
+| **Workflow** | Linux, terminal, Git |
+| **Ask me about** | C, Python, or anything dev-related |
+
+</div>
+
 **Open To**
 
 - Beginner-friendly open source collaboration
@@ -54,17 +68,28 @@ I prefer clean, minimal systems, a terminal-first workflow, and understanding wh
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,py&theme=dark" alt="C, Python"/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Linux, Bash"/>
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" alt="NumPy, Pandas, Scikit-learn"/>
+<table>
+  <tr>
+    <td align="center" width="180"><b>Languages</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=c,py&theme=dark" alt="C, Python"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><b>Tools &amp; Platforms</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Linux, Bash"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><b>Currently Learning</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/NumPy-4c1d95?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1e1b4b" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-6d28d9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1e1b4b" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/scikit--learn-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1e1b4b" alt="scikit-learn"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -180,12 +205,11 @@ open_to:
 
 <a href="mailto:317architrai@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Gmail"/></a>
 <a href="https://instagram.com/317atri"><img src="https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b" alt="Instagram"/></a>
-<a href="https://github.com/Archit-rai"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="GitHub"/></a>
 
-<br/><br/>
+<br/>
 
-*Learn. Build. Break. Fix. Repeat.*
+<sub><i>Learn. Build. Break. Fix. Repeat.</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt=""/>
 
 </div>
