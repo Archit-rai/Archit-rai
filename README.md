@@ -1,171 +1,208 @@
 <div align="center">
 
-<a href="https://github.com/Archit-rai">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1F,50:312E81,100:6D28D9&height=220&section=header&text=ARCHIT%20RAI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20AI%2FML%20%7C%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-</a>
+👋 Hi, I'm Archit Rai
 
-<br>
+Computer Science & Engineering Undergraduate @ KIIT
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Learning+AI%2FML+%26+Cybersecurity;Building+Projects+While+Learning;C+%7C+Python+%7C+Linux+%7C+DSA;Curious.+Learning.+Building." alt="Typing SVG" />
-</a>
+AI/ML • Cybersecurity • Software Development • DSA
 
-<br><br>
+<p>
+  <a href="https://kiit.ac.in/">
+    <img src="https://img.shields.io/badge/KIIT-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="KIIT">
+  </a>
+  <img src="https://img.shields.io/badge/B.Tech-CSE-312E81?style=for-the-badge&logo=bookstack&logoColor=white" alt="B.Tech CSE">
+  <img src="https://img.shields.io/badge/Graduation-2029-4C1D95?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Graduation 2029">
+  <img src="https://img.shields.io/badge/CGPA-8.29-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA 8.29">
+</p>
 
-[![KIIT](https://img.shields.io/badge/KIIT-CSE-6D28D9?style=for-the-badge\&logo=academia\&logoColor=white)](https://kiit.ac.in/)
-[![B.Tech](https://img.shields.io/badge/B.Tech-CSE-312E81?style=for-the-badge\&logo=bookstack\&logoColor=white)](https://kiit.ac.in/)
-[![Graduation](https://img.shields.io/badge/Graduation-2029-4C1D95?style=for-the-badge\&logo=googlecalendar\&logoColor=white)](#)
-[![CGPA](https://img.shields.io/badge/CGPA-8.29-7C3AED?style=for-the-badge\&logo=academia\&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Bhubaneswar-India-1E1B4B?style=for-the-badge\&logo=googlemaps\&logoColor=white)](#)
+<p>
+  <a href="https://github.com/Archit-rai">
+    <img src="https://img.shields.io/badge/GitHub-Archit--rai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://instagram.com/31atri">
+    <img src="https://img.shields.io/badge/Instagram-31atri-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:317architrai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-317architrai%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-31atri-833AB4?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/31atri)
-[![Email](https://img.shields.io/badge/Email-317architrai%40gmail.com-4F46E5?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:317architrai@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Archit--rai-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Archit-rai)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Archit-rai\&style=for-the-badge\&color=6D28D9\&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Archit-rai&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+Computer Science & Engineering undergraduate at KIIT.
 
-```text
-Computer Science & Engineering undergraduate at KIIT
-Currently exploring the intersection of AI/ML, Cybersecurity and software development.
+Currently exploring AI/ML, Cybersecurity, software development and DSA.
 
-I believe in learning by building — understanding concepts, applying them,
-breaking things, fixing them, and gradually going deeper.
+I learn by building:
+understand → apply → break → debug → improve.
 
 Currently focused on:
-→ Strengthening C/C++ and Data Structures fundamentals
-→ Building a foundation in Python and AI/ML
-→ Exploring Linux, Kali Linux and Cybersecurity
-→ Improving practical development skills
-→ Building and continuously improving my personal project, PariKrama
+→ Strengthening C/C++ and DSA fundamentals
+→ Rebuilding Python and data-handling fundamentals
+→ Learning Machine Learning step by step
+→ Exploring Linux, Kali Linux and cybersecurity
+→ Improving practical Git/GitHub and development skills
+→ Continuously improving my personal project, PariKrama
 
-I'm still at the beginning of my journey, but I'm actively learning,
-experimenting and looking for opportunities to collaborate with people
-who are equally curious about technology.
-```
+🎯 Current Direction
 
-### 🎯 Current Direction
+AI/ML · Cybersecurity · Software Development · DSA
 
-**AI/ML** · **Cybersecurity** · **Software Development** · **DSA**
+Learn → Build → Break → Debug → Understand → Repeat.
 
-> *Learn → Build → Break → Debug → Understand → Repeat.*
+🧠 Tech Stack
 
----
-
-## 🧠 Tech Stack
-
-### Programming
+💻 Programming
 
 <p>
-<img src="https://img.shields.io/badge/C-Basics-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-### AI / Data
+🤖 AI / Data
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-Foundational-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-Foundational-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-Foundational-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-Foundational-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Beginner-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
 </p>
 
-### Data Structures
+🧩 Computer Science
 
 <p>
-<img src="https://img.shields.io/badge/Arrays-Learning-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linked%20Lists-Learning-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack%20%26%20Queue-Learning-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Trees%20%26%20Graphs-Basics-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Learning-312E81?style=for-the-badge" alt="DSA">
+  <img src="https://img.shields.io/badge/Git-Basic-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-Basic-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-### Linux & Cybersecurity
+🐧 Linux & Cybersecurity
 
 <p>
-<img src="https://img.shields.io/badge/Linux-Basics-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-Beginner-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Exploring-1E1B4B?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Kali%20Linux-Beginner-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Web%20Security-Exploring-8B5CF6?style=for-the-badge" alt="Web Security">
 </p>
 
-### Development & Tools
+🤖 AI / ML — Currently Learning
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-Basics-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-Basics-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-Basics-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Using-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+Area
 
----
+Level
 
-## 🤖 AI / ML — Currently Learning
+Focus
 
-| Area               | Level        | Focus                              |
-| ------------------ | ------------ | ---------------------------------- |
-| Python             | Beginner     | Programming foundation             |
-| NumPy              | Foundational | Numerical computing                |
-| Pandas             | Foundational | Data manipulation                  |
-| Data Preprocessing | Learning     | Preparing datasets                 |
-| Machine Learning   | Beginner     | Core concepts & models             |
-| Problem Solving    | Learning     | Applying concepts through projects |
+Python
 
-> **Current goal:** move from learning concepts → writing code → building small ML projects.
+Beginner
 
----
+Programming foundation
 
-## 🛡️ Cybersecurity — Currently Exploring
+NumPy
 
-| Area                       | Exposure              |
-| -------------------------- | --------------------- |
-| Linux                      | Basic                 |
-| Kali Linux                 | Beginner              |
-| Linux Commands             | Basic                 |
-| Security Fundamentals      | Beginner              |
-| Web Security Concepts      | Introductory          |
-| SQL Injection Concepts     | Introductory exposure |
-| Base64 Encoding / Decoding | Basic                 |
-| Security Tools             | Exploring             |
-| CTF / Hands-on Labs        | Beginning             |
+Foundational
 
-> Currently building fundamentals rather than claiming expertise.
-> The goal is to gradually move from concepts → labs → real hands-on practice.
+Numerical computing
 
----
+Pandas
 
-## 🚀 Featured Project
+Foundational
 
-<details>
-<summary><b>🧭 PariKrama — Smart Travel Platform</b></summary>
+Data manipulation
 
-<br>
+Data Preprocessing
 
-**An individual travel-tech project focused on making travel planning, discovery and safety more organized and practical.**
+Learning
 
-### 💡 Concept
+Preparing datasets
 
-PariKrama is an India-focused travel platform concept designed around:
+Machine Learning
 
-* Destination discovery
-* Smart trip planning
-* Route and location assistance
-* Safety-oriented travel features
-* Food and local recommendations
-* Reviews and place information
-* Personalized travel experience
+Beginner
 
-### 🧩 My Role
+Core concepts and models
 
-**Individual Project — Concept, Product Planning & Development**
+Problem Solving
+
+Learning
+
+Applying concepts through projects
+
+Goal: move from concepts → code → small practical ML projects.
+
+🛡️ Cybersecurity — Currently Exploring
+
+Area
+
+Exposure
+
+Linux
+
+Basic
+
+Kali Linux
+
+Beginner
+
+Linux Commands
+
+Basic
+
+Security Fundamentals
+
+Beginner
+
+Web Security Concepts
+
+Introductory
+
+SQL Injection Concepts
+
+Introductory exposure
+
+Base64 Encoding / Decoding
+
+Basic
+
+Security Tools
+
+Exploring
+
+CTF / Hands-on Labs
+
+Beginning
+
+Building fundamentals first, then moving toward more hands-on labs and practical security work.
+
+🚀 Featured Project — PariKrama
+
+An India-focused travel-tech project concept focused on making travel planning, discovery and safety more organized and practical.
+
+💡 Concept
+
+PariKrama is being developed around:
+
+Destination discovery
+
+Smart trip planning
+
+Route and location assistance
+
+Safety-oriented travel features
+
+Food and local recommendations
+
+Reviews and place information
+
+Personalized travel experience
+
+🧩 My Role
+
+Individual Project — Concept, Product Planning & Development
 
 I originally came up with the idea and planned the overall product structure, features and user experience.
 
@@ -173,21 +210,27 @@ While building it, I have been learning the technologies required for the projec
 
 My work includes:
 
-* Planning the overall product and feature flow
-* Designing and refining UI sections
-* Making interface changes independently
-* Identifying and fixing bugs
-* Integrating and modifying features
-* Learning technical concepts whenever required
-* Using AI-assisted development as a learning and implementation aid
-* Researching solutions and understanding them before applying changes
+Planning product and feature flow
 
-### 🛠️ Development Approach
+Designing and refining UI sections
 
-```text
+Making interface changes
+
+Identifying and fixing bugs
+
+Integrating and modifying features
+
+Learning technical concepts as required
+
+Using AI-assisted development as a learning and implementation aid
+
+Researching solutions and understanding them before applying changes
+
+🛠️ Development Approach
+
 Idea
   ↓
-Plan the feature
+Plan
   ↓
 Learn what is required
   ↓
@@ -198,21 +241,40 @@ Test
 Debug
   ↓
 Improve
-```
 
 The project is continuously evolving as I improve my understanding of development and AI-assisted workflows.
 
-</details>
+🏛️ Community
 
----
+Artificial Intelligence Student Operated Council — AISOC
 
-## 🌱 Currently Learning
+Member · AI/ML Domain
 
-```yaml
+Currently exploring AI/ML through community learning and structured preparation while strengthening fundamentals in Python, data handling and machine learning.
+
+📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Archit-rai?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers">
+  <img src="https://img.shields.io/github/repos/Archit-rai?style=for-the-badge&logo=github&label=Public%20Repos" alt="Public repositories">
+  <img src="https://img.shields.io/github/stars/Archit-rai?style=for-the-badge&logo=github&label=Profile%20Stars" alt="GitHub stars">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Archit-rai">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile">
+  </a>
+</p>
+
+GitHub itself shows your contribution activity directly on your profile. This README intentionally avoids third-party contribution widgets so the page does not depend on external graph, trophy, or Snake services.
+
+🌱 Currently Learning
+
 education:
   degree: "B.Tech Computer Science & Engineering"
   institute: "Kalinga Institute of Industrial Technology (KIIT)"
   graduation: 2029
+  cgpa: 8.29
 
 primary_interests:
   - Artificial Intelligence
@@ -261,69 +323,9 @@ open_to:
   - Open-source projects
   - AI/ML projects
   - Cybersecurity learning
-```
 
----
+🔭 What I'm Working Toward
 
-## 🏛️ Community
-
-### Artificial Intelligence Student Operated Council — AISOC
-
-**Member · AI/ML Domain**
-
-Currently exploring AI/ML through community learning and structured preparation while strengthening my fundamentals in Python, data handling and machine learning.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Archit-rai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit-rai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Archit-rai&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="60%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Profile
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Archit-rai&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit-rai&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Archit-rai/Archit-rai/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## 🔭 What I'm Working Toward
-
-```text
 2026
 │
 ├── Strengthen C / C++ fundamentals
@@ -337,36 +339,23 @@ Currently exploring AI/ML through community learning and structured preparation 
 ├── Improve Git & GitHub workflow
 │
 └── Keep improving PariKrama
-```
 
----
+🤝 Let's Connect
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Archit-rai">
-<img src="https://img.shields.io/badge/GitHub-Archit--rai-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/31atri">
-<img src="https://img.shields.io/badge/Instagram-31atri-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:317architrai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-317architrai-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
+<p align="center">
+  <a href="https://github.com/Archit-rai">
+    <img src="https://img.shields.io/badge/GitHub-Archit--rai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:317architrai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://instagram.com/31atri">
+    <img src="https://img.shields.io/badge/Instagram-31atri-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 <div align="center">
 
-### *Learn with curiosity. Build with purpose. Improve every iteration.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:312E81,100:0D0B1F&height=120&section=footer"/>
+Learn with curiosity. Build with purpose. Improve every iteration.
 
 </div>
