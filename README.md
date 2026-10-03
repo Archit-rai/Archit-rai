@@ -15,7 +15,6 @@
 ![KIIT](https://img.shields.io/badge/KIIT_University-B.Tech_CSE-4c1d95?style=for-the-badge&labelColor=1e1b4b)
 ![Year](https://img.shields.io/badge/Year-2nd-6d28d9?style=for-the-badge&labelColor=1e1b4b)
 ![Location](https://img.shields.io/badge/Bhubaneswar-India-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e1b4b)
-![MLSA](https://img.shields.io/badge/MLSA_KIIT-2026--27_Applicant-0078d4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1e1b4b)
 
 <br/>
 
@@ -35,7 +34,7 @@
 
 I'm **Archit**, a Computer Science student at **KIIT University, Bhubaneswar**, currently in my second year. I learn by building: write code, break it, understand why it broke, fix it, repeat.
 
-My focus right now is a strong base in **C and Python**, because every good engineer I admire got there through fundamentals. On top of that foundation I'm exploring two fields I care deeply about:
+My focus right now is a strong base in **C and Python**, because fundamentals are what everything else stands on. On top of that foundation I'm exploring two fields I care deeply about:
 
 - **AI / Machine Learning**: how models learn, and how to build with Python
 - **Cybersecurity**: how systems get attacked, and how they get defended
@@ -44,15 +43,13 @@ I prefer clean, minimal systems, a terminal-first workflow, and understanding wh
 
 <div align="center">
 
-### At a Glance
-
-| | |
+| Quick Facts | |
 |:--|:--|
 | **Studying** | B.Tech CSE, KIIT University |
 | **Core focus** | C and Python fundamentals |
 | **Exploring** | AI / ML and Cybersecurity |
-| **Workflow** | Linux, terminal, Git |
-| **Ask me about** | C, Python, or anything dev-related |
+| **Workflow** | Terminal-first, Linux, Git |
+| **Philosophy** | Learn. Build. Break. Fix. Repeat. |
 
 </div>
 
@@ -68,28 +65,23 @@ I prefer clean, minimal systems, a terminal-first workflow, and understanding wh
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="180"><b>Languages</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=c,py&theme=dark" alt="C, Python"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="180"><b>Tools &amp; Platforms</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Linux, Bash"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="180"><b>Currently Learning</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/NumPy-4c1d95?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1e1b4b" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Pandas-6d28d9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1e1b4b" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/scikit--learn-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1e1b4b" alt="scikit-learn"/>
-    </td>
-  </tr>
-</table>
+<h4>Languages</h4>
+
+<img src="https://skillicons.dev/icons?i=c,py&theme=dark" alt="C, Python"/>
+
+<br/><br/>
+
+<h4>Tools &amp; Platforms</h4>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Linux, Bash"/>
+
+<br/><br/>
+
+<h4>Currently Learning</h4>
+
+<img src="https://img.shields.io/badge/NumPy-4c1d95?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1e1b4b" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-6d28d9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1e1b4b" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Scikit--learn-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1e1b4b" alt="Scikit-learn"/>
 
 </div>
 
@@ -157,7 +149,7 @@ I prefer clean, minimal systems, a terminal-first workflow, and understanding wh
 |:--|:--|
 | **B.Tech CSE at KIIT University** | Completed first year, now in second year |
 | **Foundations first** | Deliberately aligning coursework with self-directed learning in C and Python |
-| **Community** | Applying to Microsoft Learn Student Ambassadors, KIIT Chapter |
+| **Domains of interest** | AI / ML and Cybersecurity |
 
 </div>
 
@@ -170,7 +162,7 @@ I prefer clean, minimal systems, a terminal-first workflow, and understanding wh
 <img height="180" src="https://github-readme-stats.shion.dev/api?username=Archit-rai&show_icons=true&hide_border=false&title_color=a78bfa&text_color=c4b5fd&icon_color=8b5cf6&bg_color=0f0c29&border_color=312e81" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Archit-rai&layout=compact&hide_border=false&title_color=a78bfa&text_color=c4b5fd&bg_color=0f0c29&border_color=312e81" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Archit-rai&hide_border=false&background=0f0c29&border=312e81&ring=8b5cf6&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa" alt="GitHub streak"/>
 
@@ -208,8 +200,8 @@ open_to:
 
 <br/>
 
-<sub><i>Learn. Build. Break. Fix. Repeat.</i></sub>
+*Learn. Build. Break. Fix. Repeat.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt=""/>
 
 </div>
