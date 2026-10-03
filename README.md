@@ -1,29 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Archit%20Rai&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=CSE%20%C2%B7%20KIIT%20University&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6d28d9&height=230&section=header&text=Archit%20Rai&fontSize=62&fontColor=e9d5ff&fontAlignY=38&animation=fadeIn&desc=CSE%20Student%20%7C%20AI%2FML%20%26%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=60&descColor=c4b5fd" width="100%" alt="header"/>
 
 <a href="https://github.com/Archit-rai">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+strong+foundations+in+C+%26+Python;Exploring+AI+%2F+ML+and+Cyber+Security;Learning+in+public.+Shipping+small%2C+improving+daily." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+strong+foundations+in+C+%26+Python;Exploring+AI+%2F+ML;Learning+Cybersecurity+the+hands-on+way;Learn.+Build.+Break.+Fix.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![KIIT University](https://img.shields.io/badge/KIIT_University-B.Tech_CSE-4c1d95?style=for-the-badge&labelColor=0d1117)
-![Year](https://img.shields.io/badge/Year-2nd-6d28d9?style=for-the-badge&labelColor=0d1117)
-![Location](https://img.shields.io/badge/Bhubaneswar-India-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
+![KIIT](https://img.shields.io/badge/KIIT_University-CSE-4c1d95?style=for-the-badge&labelColor=1e1b4b)
+![Year](https://img.shields.io/badge/B.Tech-2nd_Year-6d28d9?style=for-the-badge&labelColor=1e1b4b)
+![Location](https://img.shields.io/badge/Bhubaneswar-India-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e1b4b)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Archit--rai-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Archit-rai)
-[![Email](https://img.shields.io/badge/Email-317architrai@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:317architrai@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-317atri-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/317atri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINK_YAHAN)
+<a href="mailto:317architrai@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Email"/></a>
+<a href="https://instagram.com/317atri"><img src="https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b" alt="Instagram"/></a>
+<a href="https://github.com/Archit-rai"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="GitHub"/></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Archit-rai&label=Profile+Views&color=6d28d9&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/Archit-rai?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/Archit-rai?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Archit-rai?label=Stars&style=flat-square&color=8b5cf6&labelColor=0d1117)](https://github.com/Archit-rai?tab=repositories)
+<img src="https://komarev.com/ghpvc/?username=Archit-rai&label=Profile%20Views&color=6d28d9&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/github/followers/Archit-rai?label=Followers&style=flat-square&color=7c3aed&labelColor=1e1b4b" alt="followers"/>
 
 </div>
 
@@ -31,16 +29,15 @@
 
 ## About Me
 
-I'm a second-year Computer Science student at **KIIT University** who believes in learning the fundamentals properly before chasing trends. My base is **C** and **Python**, and I'm steadily moving into **Data Structures**, **AI / ML** and **Cyber Security**.
+I'm **Archit**, a Computer Science student at **KIIT University, Bhubaneswar**. I'm a firm believer in learning by building: write code, break it, understand why it broke, fix it. Right now I'm laying a solid base in **C and Python** while exploring **AI/ML** and **Cybersecurity**, two fields where fundamentals matter more than shortcuts.
 
-I like building things that feel good to use, and I care about how they look as much as how they work. I build small, break things, fix them, and write down what I learned.
+I like clean, minimal systems, a terminal-first workflow, and understanding how things work under the hood.
 
-| | |
-|---|---|
-| **Focus** | C, Python, Data Structures, problem solving |
-| **Exploring** | AI / ML fundamentals, Cyber Security basics |
-| **Mindset** | Fundamentals first, consistency over hype |
-| **Open To** | Beginner-friendly open source, student communities, team projects, learning collaborations |
+**Open To**
+
+- Beginner-friendly open source collaboration
+- Learning with and from like-minded developers
+- Team projects, hackathons, and tech communities
 
 ---
 
@@ -50,60 +47,24 @@ I like building things that feel good to use, and I care about how they look as 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,py,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,py&theme=dark" alt="languages"/>
 
-**Frontend**
+**Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="tools"/>
 
 </div>
 
 ---
 
-## AI / ML and Security Journey
+## Areas I'm Exploring
 
-| Domain | Status | Details |
+| Domain | Status | Focus |
 |:--|:--|:--|
-| **Python for ML** | Learning | Building the base: Python fundamentals, then data handling and core ML concepts |
-| **AI / ML** | Exploring | Understanding how models learn before using libraries as black boxes |
-| **Cyber Security** | Exploring | Basics of how systems get attacked and defended, and safe hands-on practice |
-| **Data Structures (C)** | Active | Implementing core structures from scratch in C |
-
----
-
-## Featured Projects
-
-<details open>
-<summary><b>PariKrama</b></summary>
-<br/>
-
-A personal project that is part of my learning and building journey.
-
-| | |
-|:--|:--|
-| **Stack** | Add your stack here |
-| **Focus** | Learning by building, clean structure, iterating |
-| **Repository** | [View on GitHub](https://github.com/Archit-rai?tab=repositories) |
-
-</details>
-
-<details open>
-<summary><b>ATRI eDEX-UI Command Center</b></summary>
-<br/>
-
-A customised, terminal-style command center interface built around a clean, futuristic aesthetic, made to explore how an interface can feel personal and fast.
-
-| | |
-|:--|:--|
-| **Focus** | Customisation, UI polish, workflow speed |
-| **Theme** | Dark, hacker-style visual identity |
-| **Repository** | [View on GitHub](https://github.com/Archit-rai?tab=repositories) |
-
-</details>
+| **C Programming** | Building foundation | Core concepts, data structures, problem solving |
+| **Python** | Building foundation | Scripting, automation, groundwork for ML |
+| **AI / ML** | Learning | Fundamentals, Python-based workflows |
+| **Cybersecurity** | Exploring | Security basics, Linux, how systems get attacked and defended |
 
 ---
 
@@ -111,45 +72,12 @@ A customised, terminal-style command center interface built around a clean, futu
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=Archit-rai&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&border_color=4c1d95" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Archit-rai&layout=compact&hide_border=false&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&border_color=4c1d95" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Archit-rai&show_icons=true&hide_border=false&title_color=a78bfa&text_color=c4b5fd&icon_color=8b5cf6&bg_color=0f0c29&border_color=312e81" alt="stats"/>
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Archit-rai&layout=compact&hide_border=false&title_color=a78bfa&text_color=c4b5fd&bg_color=0f0c29&border_color=312e81" alt="top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Archit-rai&theme=dark&hide_border=false&background=0d1117&border=4c1d95&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Archit-rai&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit-rai&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true&title_color=a78bfa" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archit-rai/Archit-rai/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Archit-rai/Archit-rai/output/github-snake.svg" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=Archit-rai&hide_border=false&background=0f0c29&border=312e81&ring=8b5cf6&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa" alt="streak"/>
 
 </div>
 
@@ -158,20 +86,20 @@ A customised, terminal-style command center interface built around a clean, futu
 ## Current Focus
 
 ```yaml
-Learning:
-  - C and Data Structures
+learning:
+  - C Programming
   - Python
   - AI / ML fundamentals
-  - Cyber Security basics
-Building:
-  - PariKrama
-  - ATRI eDEX-UI Command Center
-Exploring:
-  - Open source contribution workflow
-  - Writing a strong portfolio, one honest project at a time
-Open To:
+  - Cybersecurity basics
+building:
+  - Strong programming foundations
+  - A consistent GitHub habit
+exploring:
+  - Linux and terminal workflows
+  - Open source contribution
+open_to:
   - Beginner-friendly open source
-  - Student communities and team projects
+  - Collaboration and hackathons
 ```
 
 ---
@@ -180,19 +108,14 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-317architrai@gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:317architrai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINK_YAHAN)
-[![GitHub](https://img.shields.io/badge/GitHub-Archit--rai-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Archit-rai)
-[![Instagram](https://img.shields.io/badge/Instagram-317atri-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/317atri)
+<a href="mailto:317architrai@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Gmail"/></a>
+<a href="https://instagram.com/317atri"><img src="https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b" alt="Instagram"/></a>
+<a href="https://github.com/Archit-rai"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="GitHub"/></a>
 
-</div>
+<br/><br/>
 
----
+*Learn. Build. Break. Fix. Repeat.*
 
-<div align="center">
-
-*Your journey doesn't begin when you know everything. It begins when you decide to learn.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
