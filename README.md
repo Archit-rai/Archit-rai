@@ -19,7 +19,7 @@
 <br/>
 
 <a href="mailto:317architrai@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Email"/></a>
-<a href="https://instagram.com/317atri"><img src="https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b" alt="Instagram"/></a>
+<a href="https://instagram.com/31atri"><img src="https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b" alt="Instagram"/></a>
 
 <br/><br/>
 
@@ -195,8 +195,8 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:317architrai@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Gmail"/></a>
-<a href="https://instagram.com/317atri"><img src="https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b" alt="Instagram"/></a>
+<a href="mailto:317architrai@gmail.com"><img src="https://img.shields.io/badge/317architrai@gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="Gmail"/></a>
+<a href="https://instagram.com/31atri"><img src="https://img.shields.io/badge/@31atri-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b" alt="Instagram"/></a>
 
 <br/>
 
