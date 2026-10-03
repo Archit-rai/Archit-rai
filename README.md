@@ -1,361 +1,198 @@
 <div align="center">
 
-👋 Hi, I'm Archit Rai
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Archit%20Rai&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=CSE%20%C2%B7%20KIIT%20University&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
-Computer Science & Engineering Undergraduate @ KIIT
+<a href="https://github.com/Archit-rai">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+strong+foundations+in+C+%26+Python;Exploring+AI+%2F+ML+and+Cyber+Security;Learning+in+public.+Shipping+small%2C+improving+daily." alt="Typing SVG" />
+</a>
 
-AI/ML • Cybersecurity • Software Development • DSA
+<br/>
 
-<p>
-  <a href="https://kiit.ac.in/">
-    <img src="https://img.shields.io/badge/KIIT-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="KIIT">
-  </a>
-  <img src="https://img.shields.io/badge/B.Tech-CSE-312E81?style=for-the-badge&logo=bookstack&logoColor=white" alt="B.Tech CSE">
-  <img src="https://img.shields.io/badge/Graduation-2029-4C1D95?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Graduation 2029">
-  <img src="https://img.shields.io/badge/CGPA-8.29-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA 8.29">
-</p>
+![KIIT University](https://img.shields.io/badge/KIIT_University-B.Tech_CSE-4c1d95?style=for-the-badge&labelColor=0d1117)
+![Year](https://img.shields.io/badge/Year-2nd-6d28d9?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Bhubaneswar-India-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
 
-<p>
-  <a href="https://github.com/Archit-rai">
-    <img src="https://img.shields.io/badge/GitHub-Archit--rai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://instagram.com/31atri">
-    <img src="https://img.shields.io/badge/Instagram-31atri-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:317architrai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-317architrai%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Archit-rai&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views">
+[![GitHub](https://img.shields.io/badge/GitHub-Archit--rai-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Archit-rai)
+[![Email](https://img.shields.io/badge/Email-317architrai@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:317architrai@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-317atri-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/317atri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINK_YAHAN)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Archit-rai&label=Profile+Views&color=6d28d9&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/Archit-rai?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117)](https://github.com/Archit-rai?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Archit-rai?label=Stars&style=flat-square&color=8b5cf6&labelColor=0d1117)](https://github.com/Archit-rai?tab=repositories)
 
 </div>
 
-👨‍💻 About Me
+---
 
-Computer Science & Engineering undergraduate at KIIT.
+## About Me
 
-Currently exploring AI/ML, Cybersecurity, software development and DSA.
+I'm a second-year Computer Science student at **KIIT University** who believes in learning the fundamentals properly before chasing trends. My base is **C** and **Python**, and I'm steadily moving into **Data Structures**, **AI / ML** and **Cyber Security**.
 
-I learn by building:
-understand → apply → break → debug → improve.
+I like building things that feel good to use, and I care about how they look as much as how they work. I build small, break things, fix them, and write down what I learned.
 
-Currently focused on:
-→ Strengthening C/C++ and DSA fundamentals
-→ Rebuilding Python and data-handling fundamentals
-→ Learning Machine Learning step by step
-→ Exploring Linux, Kali Linux and cybersecurity
-→ Improving practical Git/GitHub and development skills
-→ Continuously improving my personal project, PariKrama
+| | |
+|---|---|
+| **Focus** | C, Python, Data Structures, problem solving |
+| **Exploring** | AI / ML fundamentals, Cyber Security basics |
+| **Mindset** | Fundamentals first, consistency over hype |
+| **Open To** | Beginner-friendly open source, student communities, team projects, learning collaborations |
 
-🎯 Current Direction
+---
 
-AI/ML · Cybersecurity · Software Development · DSA
-
-Learn → Build → Break → Debug → Understand → Repeat.
-
-🧠 Tech Stack
-
-💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
-
-🤖 AI / Data
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-Foundational-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-Foundational-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Beginner-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
-</p>
-
-🧩 Computer Science
-
-<p>
-  <img src="https://img.shields.io/badge/DSA-Learning-312E81?style=for-the-badge" alt="DSA">
-  <img src="https://img.shields.io/badge/Git-Basic-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-Basic-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
-🐧 Linux & Cybersecurity
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Kali%20Linux-Beginner-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Web%20Security-Exploring-8B5CF6?style=for-the-badge" alt="Web Security">
-</p>
-
-🤖 AI / ML — Currently Learning
-
-Area
-
-Level
-
-Focus
-
-Python
-
-Beginner
-
-Programming foundation
-
-NumPy
-
-Foundational
-
-Numerical computing
-
-Pandas
-
-Foundational
-
-Data manipulation
-
-Data Preprocessing
-
-Learning
-
-Preparing datasets
-
-Machine Learning
-
-Beginner
-
-Core concepts and models
-
-Problem Solving
-
-Learning
-
-Applying concepts through projects
-
-Goal: move from concepts → code → small practical ML projects.
-
-🛡️ Cybersecurity — Currently Exploring
-
-Area
-
-Exposure
-
-Linux
-
-Basic
-
-Kali Linux
-
-Beginner
-
-Linux Commands
-
-Basic
-
-Security Fundamentals
-
-Beginner
-
-Web Security Concepts
-
-Introductory
-
-SQL Injection Concepts
-
-Introductory exposure
-
-Base64 Encoding / Decoding
-
-Basic
-
-Security Tools
-
-Exploring
-
-CTF / Hands-on Labs
-
-Beginning
-
-Building fundamentals first, then moving toward more hands-on labs and practical security work.
-
-🚀 Featured Project — PariKrama
-
-An India-focused travel-tech project concept focused on making travel planning, discovery and safety more organized and practical.
-
-💡 Concept
-
-PariKrama is being developed around:
-
-Destination discovery
-
-Smart trip planning
-
-Route and location assistance
-
-Safety-oriented travel features
-
-Food and local recommendations
-
-Reviews and place information
-
-Personalized travel experience
-
-🧩 My Role
-
-Individual Project — Concept, Product Planning & Development
-
-I originally came up with the idea and planned the overall product structure, features and user experience.
-
-While building it, I have been learning the technologies required for the project and implementing features incrementally.
-
-My work includes:
-
-Planning product and feature flow
-
-Designing and refining UI sections
-
-Making interface changes
-
-Identifying and fixing bugs
-
-Integrating and modifying features
-
-Learning technical concepts as required
-
-Using AI-assisted development as a learning and implementation aid
-
-Researching solutions and understanding them before applying changes
-
-🛠️ Development Approach
-
-Idea
-  ↓
-Plan
-  ↓
-Learn what is required
-  ↓
-Implement
-  ↓
-Test
-  ↓
-Debug
-  ↓
-Improve
-
-The project is continuously evolving as I improve my understanding of development and AI-assisted workflows.
-
-🏛️ Community
-
-Artificial Intelligence Student Operated Council — AISOC
-
-Member · AI/ML Domain
-
-Currently exploring AI/ML through community learning and structured preparation while strengthening fundamentals in Python, data handling and machine learning.
-
-📊 GitHub Snapshot
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Archit-rai?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers">
-  <img src="https://img.shields.io/github/repos/Archit-rai?style=for-the-badge&logo=github&label=Public%20Repos" alt="Public repositories">
-  <img src="https://img.shields.io/github/stars/Archit-rai?style=for-the-badge&logo=github&label=Profile%20Stars" alt="GitHub stars">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Archit-rai">
-    <img src="https://img.shields.io/badge/View%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile">
-  </a>
-</p>
-
-GitHub itself shows your contribution activity directly on your profile. This README intentionally avoids third-party contribution widgets so the page does not depend on external graph, trophy, or Snake services.
-
-🌱 Currently Learning
-
-education:
-  degree: "B.Tech Computer Science & Engineering"
-  institute: "Kalinga Institute of Industrial Technology (KIIT)"
-  graduation: 2029
-  cgpa: 8.29
-
-primary_interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Cybersecurity
-
-learning:
-  programming:
-    - C
-    - Python
-    - C++
-
-  data_structures:
-    - Arrays
-    - Linked Lists
-    - Stack
-    - Queue
-    - Trees
-    - Graphs
-
-  ai_ml:
-    - NumPy
-    - Pandas
-    - Data Preprocessing
-    - Machine Learning Fundamentals
-
-  cybersecurity:
-    - Linux
-    - Kali Linux
-    - Security Fundamentals
-    - Web Security Concepts
-
-building:
-  - PariKrama
-
-exploring:
-  - AI-assisted development
-  - Practical cybersecurity
-  - Machine learning projects
-  - Open-source collaboration
-
-open_to:
-  - Learning opportunities
-  - Technical communities
-  - Beginner-friendly collaboration
-  - Open-source projects
-  - AI/ML projects
-  - Cybersecurity learning
-
-🔭 What I'm Working Toward
-
-2026
-│
-├── Strengthen C / C++ fundamentals
-├── Build DSA problem-solving ability
-├── Rebuild Python fundamentals
-├── Practice NumPy & Pandas
-├── Learn Machine Learning properly
-├── Build practical AI/ML projects
-├── Strengthen Linux fundamentals
-├── Learn Cybersecurity through hands-on labs
-├── Improve Git & GitHub workflow
-│
-└── Keep improving PariKrama
-
-🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Archit-rai">
-    <img src="https://img.shields.io/badge/GitHub-Archit--rai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:317architrai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://instagram.com/31atri">
-    <img src="https://img.shields.io/badge/Instagram-31atri-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+## Tech Stack
 
 <div align="center">
 
-Learn with curiosity. Build with purpose. Improve every iteration.
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,py,js&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## AI / ML and Security Journey
+
+| Domain | Status | Details |
+|:--|:--|:--|
+| **Python for ML** | Learning | Building the base: Python fundamentals, then data handling and core ML concepts |
+| **AI / ML** | Exploring | Understanding how models learn before using libraries as black boxes |
+| **Cyber Security** | Exploring | Basics of how systems get attacked and defended, and safe hands-on practice |
+| **Data Structures (C)** | Active | Implementing core structures from scratch in C |
+
+---
+
+## Featured Projects
+
+<details open>
+<summary><b>PariKrama</b></summary>
+<br/>
+
+A personal project that is part of my learning and building journey.
+
+| | |
+|:--|:--|
+| **Stack** | Add your stack here |
+| **Focus** | Learning by building, clean structure, iterating |
+| **Repository** | [View on GitHub](https://github.com/Archit-rai?tab=repositories) |
+
+</details>
+
+<details open>
+<summary><b>ATRI eDEX-UI Command Center</b></summary>
+<br/>
+
+A customised, terminal-style command center interface built around a clean, futuristic aesthetic, made to explore how an interface can feel personal and fast.
+
+| | |
+|:--|:--|
+| **Focus** | Customisation, UI polish, workflow speed |
+| **Theme** | Dark, hacker-style visual identity |
+| **Repository** | [View on GitHub](https://github.com/Archit-rai?tab=repositories) |
+
+</details>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Archit-rai&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&border_color=4c1d95" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Archit-rai&layout=compact&hide_border=false&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&border_color=4c1d95" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Archit-rai&theme=dark&hide_border=false&background=0d1117&border=4c1d95&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=a78bfa&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Archit-rai&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archit-rai&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6d28d9&hide_border=true&title_color=a78bfa" width="100%" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archit-rai/Archit-rai/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Archit-rai/Archit-rai/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - C and Data Structures
+  - Python
+  - AI / ML fundamentals
+  - Cyber Security basics
+Building:
+  - PariKrama
+  - ATRI eDEX-UI Command Center
+Exploring:
+  - Open source contribution workflow
+  - Writing a strong portfolio, one honest project at a time
+Open To:
+  - Beginner-friendly open source
+  - Student communities and team projects
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-317architrai@gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:317architrai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINK_YAHAN)
+[![GitHub](https://img.shields.io/badge/GitHub-Archit--rai-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Archit-rai)
+[![Instagram](https://img.shields.io/badge/Instagram-317atri-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/317atri)
+
+</div>
+
+---
+
+<div align="center">
+
+*Your journey doesn't begin when you know everything. It begins when you decide to learn.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
 
 </div>
