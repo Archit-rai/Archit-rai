@@ -22,6 +22,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Archit-rai&label=Profile%20Views&color=6d28d9&style=flat-square" alt="views"/>
 <img src="https://img.shields.io/github/followers/Archit-rai?label=Followers&style=flat-square&color=7c3aed&labelColor=1e1b4b" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Archit-rai?label=Stars&style=flat-square&color=8b5cf6&labelColor=1e1b4b&affiliations=OWNER" alt="stars"/>
 
 </div>
 
@@ -78,6 +79,16 @@ I like clean, minimal systems, a terminal-first workflow, and understanding how 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Archit-rai&hide_border=false&background=0f0c29&border=312e81&ring=8b5cf6&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa" alt="streak"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Archit-rai/Archit-rai/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
 
 </div>
 
